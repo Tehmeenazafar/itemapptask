@@ -39,7 +39,7 @@ var data = [{
      
 
     const [favourite , setFavourite] = useState<boolean | false>(false);
-    var [data , setData] = useState();
+   // var [data , setData] = useState();
 
     const addItem = async() =>{
         console.log("i am here ")
